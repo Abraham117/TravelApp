@@ -1,0 +1,1138 @@
+[
+    {
+        "name": "Albuquerque",
+        "category": "Cities",
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "country": "United States",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -106.651547,
+            "latitude": 35.088244
+        },
+        "description": "Albuquerque is the most populous city in the U.S. state of New Mexico. The high-elevation city serves as the county seat of Bernalillo County, and it is situated in the central part of the state, straddling the Rio Grande. The city population is 557,169 as of the July 1, 2014 population estimate from the United States Census Bureau, and ranks as the 32nd-largest city in the U.S. The Albuquerque metropolitan statistical area (or MSA) has a population of 907,301 according to the United States Census Bureau's most recently available estimate for 2015.",
+        "imageName": "albuquerque"
+    },
+    {
+        "name": "Atlanta",
+        "category": "Cities",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "country": "United States",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -84.390865,
+            "latitude": 33.748188
+        },
+        "description": "Atlanta is the capital of and the most populous city in the U.S. state of Georgia, with an estimated 2015 population of 463,878. Atlanta is the cultural and economic center of the Atlanta metropolitan area, home to 5,710,795 people and the ninth largest metropolitan area in the United States. Atlanta is the county seat of Fulton County, and a small portion of the city extends eastward into DeKalb County.",
+        "imageName": "atlanta"
+    },
+    {
+        "name": "Atlantic City",
+        "category": "Cities",
+        "city": "Atlantic City",
+        "state": "New Jersey",
+        "country": "United States",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -74.428623,
+            "latitude": 39.362920
+        },
+        "description": "Atlantic City is a resort city in Atlantic County, New Jersey, United States, known for its casinos, boardwalk, and beach. In 2010, it had a population of 39,558. Incorporated on May 1, 1854, from portions of Egg Harbor Township and Galloway Township, the city borders Absecon, Brigantine, Pleasantville, Ventnor City, West Atlantic City, and the Atlantic Ocean. Atlantic City inspired the American version of the board game Monopoly, especially the street names.",
+        "imageName": "atlanticcity"
+    },
+    {
+        "name": "Austin",
+        "category": "Cities",
+        "city": "Austin",
+        "state": "Texas",
+        "country": "United States",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -97.747502,
+            "latitude": 30.264264
+        },
+        "description": "Austin is the capital of the U.S. state of Texas and the seat of Travis County, although portions extend into Hays and Williamson counties. It is the 11th-most populous city in the U.S. and the 4th-most populous in Texas. It is the fastest growing large city in the United States and the second most populous capital city after Phoenix, Arizona. As of the U.S. Census Bureau's July 1, 2015 estimate, Austin has a population of 931,830.",
+        "imageName": "austin"
+    },
+    {
+        "name": "Bakersfield",
+        "category": "California",
+        "city": "Bakersfield",
+        "state": "California",
+        "country": "United States",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -119.105015,
+            "latitude": 35.348569
+        },
+        "description": "Bakersfield is a city in California, United States, and the county seat of Kern County. It covers about 142 square miles near the southern end of the San Joaquin Valley and the Central Valley region. Bakersfield's population is approximately 365,000, making it the ninth-most populous city in California and the 52nd-most populous city in the nation.",
+        "imageName": "bakersfield"
+    },
+    {
+        "name": "Baltimore",
+        "category": "East Coast",
+        "city": "Baltimore",
+        "state": "Maryland",
+        "country": "United States",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -76.610702,
+            "latitude": 39.291281
+        },
+        "description": "Baltimore is the largest city in the U.S. state of Maryland, and the 29th-most populous city in the country. It was established by the Constitution of Maryland and is not part of any county; thus, it is the largest independent city in the United States, with a population of 621,849 as of 2015. As of 2016, the population of the Baltimore metropolitan area was estimated to be just under 2.8 million making it the 21st largest metropolitan area in the country.",
+        "imageName": "baltimore"
+    },
+    {
+        "name": "Boise",
+        "category": "Cities",
+        "city": "Boise",
+        "state": "Idaho",
+        "country": "United States",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -116.201974,
+            "latitude": 43.615346
+        },
+        "description": "Boise is the capital and most populous city of the U.S. state of Idaho, as well as the county seat of Ada County. Located on the Boise River in southwestern Idaho, the population of Boise at the 2010 Census was 205,671, the 99th largest in the nation. Its estimated population in 2013 was 214,237. The Boise-Nampa metropolitan area, also known as the Treasure Valley, includes five counties with a combined population of 664,422, the most populous metropolitan area in Idaho.",
+        "imageName": "boise"
+    },
+    {
+        "name": "Boston",
+        "category": "East Coast",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "country": "United States",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -71.057279,
+            "latitude": 42.360256
+        },
+        "description": "Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. Boston is also the seat of Suffolk County, although the county government was disbanded on July 1, 1999. The city proper covers 48 square miles with an estimated population of 667,137 in 2015, making it the largest city in New England and the 23rd most populous city in the United States.",
+        "imageName": "boston"
+    },
+    {
+        "name": "Buffalo",
+        "category": "East Coast",
+        "city": "Buffalo",
+        "state": "New York",
+        "country": "United States",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -78.878776,
+            "latitude": 42.886527
+        },
+        "description": "Buffalo is a city in western New York state and the county seat of Erie County, on the eastern shores of Lake Erie at the head of the Niagara River. As of 2014, Buffalo is New York state's 2nd-most populous city after New York City, with 258,703 residents. The metropolitan area has a population of 1.13 million.",
+        "imageName": "buffalo"
+    },
+    {
+        "name": "Calgary",
+        "category": "Canada",
+        "city": "Calgary",
+        "state": "Alberta",
+        "country": "Canada",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -114.057141,
+            "latitude": 51.045113
+        },
+        "description": "Calgary is a city in the Canadian province of Alberta. It is situated at the confluence of the Bow River and the Elbow River in the south of the province, in an area of foothills and prairie, about 80 km east of the front ranges of the Canadian Rockies. The city anchors the south end of what Statistics Canada defines as the \"Calgary–Edmonton Corridor\". The city had a population of 1,239,220 in 2016, making it Alberta's largest city and Canada's third-largest municipality.",
+        "imageName": "calgary"
+    },
+    {
+        "name": "Charleston",
+        "category": "East Coast",
+        "city": "Charleston",
+        "state": "South Carolina",
+        "country": "United States",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -79.930773,
+            "latitude": 32.776499
+        },
+        "description": "Charleston is the oldest and second-largest city in the U.S. state of South Carolina, the county seat of Charleston County, and the principal city in the Charleston–North Charleston–Summerville Metropolitan Statistical Area. The city lies just south of the geographical midpoint of South Carolina's coastline and is located on Charleston Harbor, an inlet of the Atlantic Ocean formed by the confluence of the Ashley and Cooper Rivers. Charleston had an estimated population of 132,609 in 2015.",
+        "imageName": "charleston"
+    },
+    {
+        "name": "Charlotte",
+        "category": "East Coast",
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "country": "United States",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -80.839734,
+            "latitude": 35.221694
+        },
+        "description": "Charlotte is the largest city in the state of North Carolina. It is the county seat of Mecklenburg County and the second-largest city in the southeastern United States, just behind Jacksonville, Florida. Charlotte is the third-fastest growing major city in the United States. In 2014 the estimated population of Charlotte according to the U.S. Census Bureau was 809,958, making it the 17th-largest city in the United States based on population.",
+        "imageName": "charlotte"
+    },
+    {
+        "name": "Cheyenne",
+        "category": "Cities",
+        "city": "Cheyenne",
+        "state": "Wyoming",
+        "country": "United States",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -104.822607,
+            "latitude": 41.135387
+        },
+        "description": "Cheyenne is the capital and most populous city of the US state of Wyoming and the county seat of Laramie County. It is the principal city of the Cheyenne, Wyoming, Metropolitan Statistical Area which encompasses all of Laramie County. The population was 59,466 at the 2010 census.",
+        "imageName": "cheyenne"
+    },
+    {
+        "name": "Chicago",
+        "category": "Cities",
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "United States",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -87.632382,
+            "latitude": 41.883718
+        },
+        "description": "Chicago, officially the City of Chicago, is the third-most populous city in the United States. With over 2.7 million residents, it is also the most populous city in both the state of Illinois and the Midwestern United States. It is the county seat of Cook County. The Chicago metropolitan area, often referred to as Chicagoland, has nearly 10 million people and is the third-largest in the U.S. Chicago has been called a global architecture capital.",
+        "imageName": "chicago"
+    },
+    {
+        "name": "Cincinnati",
+        "category": "Cities",
+        "city": "Cincincati",
+        "state": "Ohio",
+        "country": "United States",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -84.520346,
+            "latitude": 39.104064
+        },
+        "description": "Cincinnati is a city in the U.S. state of Ohio that serves as county seat of Hamilton County. Settled in 1788, the city is located on the north side of the confluence of the Licking with the Ohio River. With a population of 298,550, Cincinnati is the third-largest city in Ohio and the 65th-largest city in the United States. Its metropolitan statistical area is the 28th-largest in the United States and the largest centered in Ohio.",
+        "imageName": "cincinnati"
+    },
+    {
+        "name": "Cleveland",
+        "category": "Cities",
+        "city": "Cleveland",
+        "state": "Ohio",
+        "country": "United States",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -81.693254,
+            "latitude": 41.504667
+        },
+        "description": "Cleveland is a city in the U.S. state of Ohio and the county seat of Cuyahoga County, the state's second most populous county. The city proper has a population of 388,072, making Cleveland the 51st largest city in the United States, and the second-largest city in Ohio after Columbus. Greater Cleveland ranked as the 32nd largest metropolitan area in the United States, with 2,055,612 people in 2016.",
+        "imageName": "cleveland"
+    },
+    {
+        "name": "Crater Lake",
+        "category": "Nature",
+        "city": "Crater Lake",
+        "state": "Oregon",
+        "country": "United States",
+        "id": 1017,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -122.184577,
+            "latitude": 42.936852
+        },
+        "description": "Crater Lake National Park is a United States National Park located in southern Oregon. Established in 1902, Crater Lake National Park is the fifth-oldest national park in the U.S. and the only national park in Oregon. The park encompasses the caldera of Crater Lake, a remnant of a destroyed volcano, Mount Mazama, and the surrounding hills and forests.",
+        "imageName": "craterlake"
+    },
+    {
+        "name": "Dallas",
+        "category": "Cities",
+        "city": "Dallas",
+        "state": "Texas",
+        "country": "United States",
+        "id": 1018,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -96.795595,
+            "latitude": 32.775568
+        },
+        "description": "Dallas is a major city in the U.S. state of Texas. It is the most populous city in the Dallas–Fort Worth metroplex, the fourth most populous metropolitan area in the United States. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. The city's prominence arose from its historical importance as a center for the oil and cotton industries, and its position along numerous railroad lines.",
+        "imageName": "dallas"
+    },
+    {
+        "name": "Denver",
+        "category": "Cities",
+        "city": "Denver",
+        "state": "Colorado",
+        "country": "United States",
+        "id": 1019,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -104.990303,
+            "latitude": 39.739212
+        },
+        "description": "Denver, officially the City and County of Denver, is the capital and most populous municipality of the U.S. state of Colorado. Denver is in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The Denver downtown district is immediately east of the confluence of Cherry Creek with the South Platte River, approximately 12 mi east of the foothills of the Rocky Mountains.",
+        "imageName": "denver"
+    },
+    {
+        "name": "Detroit",
+        "category": "Cities",
+        "city": "Detroit",
+        "state": "Michigan",
+        "country": "United States",
+        "id": 1020,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -83.044933,
+            "latitude": 42.329390
+        },
+        "description": "Detroit is the most populous city in the U.S. state of Michigan, the largest city on the United States–Canada border, and the seat of Wayne County. The municipality of Detroit had a 2015 estimated population of 677,116, making it the 21st-most populous city in the United States. The metropolitan area, known as Metro Detroit, is home to 4.3 million people, making it the second-largest in the Midwest.",
+        "imageName": "detroit"
+    },
+    {
+        "name": "Flagstaff",
+        "category": "Cities",
+        "city": "Flagstaff",
+        "state": "Arizona",
+        "country": "United States",
+        "id": 1021,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -111.651547,
+            "latitude": 35.199339
+        },
+        "description": "Flagstaff is a city in northern Arizona, in the southwestern United States. In 2015, the city's estimated population was 70,320. Flagstaff's combined metropolitan area has an estimated population of 139,097. It is the county seat of Coconino County. The city is named after a ponderosa pine flagpole made by a scouting party from Boston (known as the \"Second Boston Party\") to celebrate the United States Centennial on July 4, 1876.",
+        "imageName": "flagstaff"
+    },
+    {
+        "name": "Forks",
+        "category": "West Coast",
+        "city": "Forks",
+        "state": "Washington",
+        "country": "United States",
+        "id": 1022,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -124.378954,
+            "latitude": 47.950396
+        },
+        "description": "Forks is a city in Clallam County, Washington, United States. The population was 3,532 at the 2010 census. The population was 3,545 at 2012 Estimate from Office of Financial Management. It is named after the forks in the nearby Quillayute, Bogachiel, Calawah, and Sol Duc rivers. For many years, the city's economy was fueled by the local timber industry. More recently it has drawn tourism related to the novel series Twilight and movies of the same name, set in Forks.",
+        "imageName": "forks"
+    },
+    {
+        "name": "Glacier National Park",
+        "category": "Nature",
+        "city": "Glacier National Park",
+        "state": "Montana",
+        "country": "United States",
+        "id": 1023,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -113.7180,
+            "latitude": 48.6953
+        },
+        "description": "Glacier National Park is a national park located in the U.S. state of Montana, on the Canada–United States border with the Canadian provinces of Alberta and British Columbia. The park encompasses over 1 million acres and includes parts of two mountain ranges, over 130 named lakes, more than 1,000 different species of plants, and hundreds of species of animals.",
+        "imageName": "glacier"
+    },
+    {
+        "name": "Great Falls",
+        "category": "Cities",
+        "city": "Great Falls",
+        "state": "Montana",
+        "country": "United States",
+        "id": 1024,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -111.3008,
+            "latitude": 47.5053
+        },
+        "description": "Great Falls is a city in and the county seat of Cascade County, Montana, United States. The 2015 census estimate put the population at 59,638. The population was 58,505 at the 2010 census. It is the principal city of the Great Falls, Montana Metropolitan Statistical Area, which encompasses all of Cascade County and has a population of 82,278. Great Falls was the largest city in Montana from 1950 to 1970, when Billings surpassed it.",
+        "imageName": "greatfalls"
+    },
+    {
+        "name": "Green Bay",
+        "category": "Cities",
+        "city": "Green Bay",
+        "state": "Wisconsin",
+        "country": "United States",
+        "id": 1025,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -88.0133,
+            "latitude": 44.5133
+        },
+        "description": "Green Bay is a city in and the county seat of Brown County in the U.S. state of Wisconsin, at the head of Green Bay, a sub-basin of Lake Michigan, at the mouth of the Fox River. It is 581 feet above sea level and 112 miles north of Milwaukee. The population was 104,057 at the 2010 census. Green Bay is the third-largest city in the state of Wisconsin, after Milwaukee and Madison, and the third-largest city on Lake Michigan's west shore, after Chicago and Milwaukee.",
+        "imageName": "greenbay"
+    },
+    {
+        "name": "Helena",
+        "category": "Cities",
+        "city": "Helena",
+        "state": "Montana",
+        "country": "United States",
+        "id": 1026,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -112.0391,
+            "latitude": 46.5891
+        },
+        "description": "Helena is the capital city of the U.S. state of Montana and the county seat of Lewis and Clark County. It was founded as a gold camp during the Montana gold rush, and was established in 1864. Over $3.6 billion of gold was extracted in the city limits over a duration of two decades, making it one of the wealthiest cities in the United States by the late nineteenth century. The concentration of wealth contributed to the city's prominent, elaborate Victorian architecture.",
+        "imageName": "helena"
+    },
+    {
+        "name": "Hoh Rainforest",
+        "category": "Nature",
+        "city": "Hoh Rainforest",
+        "state": "Washington",
+        "country": "United States",
+        "id": 1027,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -123.9348,
+            "latitude": 47.8609
+        },
+        "description": "Hoh Rainforest is located on the Olympic Peninsula in the Pacific Northwest. It is located in western Washington state, and is one of the largest temperate rainforests in the U.S. Within Olympic National Park, the forest is protected from commercial exploitation. This includes 24 miles (39 km) of low elevation forest 394 to 2,493 feet (120 to 760 m) along the Hoh River. The Hoh River valley was formed thousands of years ago by glaciers. Between the park boundary and the Pacific Ocean, 48 km (30 mi) of river, much of the forest has been logged within the last century, although many pockets of forest remain.",
+        "imageName": "hoh"
+    },
+    {
+        "name": "Houston",
+        "category": "Cities",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States",
+        "id": 1028,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -95.3698,
+            "latitude": 29.7604
+        },
+        "description": "Houston is the most populous city in the state of Texas and the fourth-most populous city in the United States. With a census-estimated 2014 population of 2.239 million within an area of 667 square miles, it is also the largest city in the southern United States and the seat of Harris County. Located in Southeast Texas near the Gulf of Mexico, it is the principal city of the Greater Houston metro area, which is the fifth-most populated MSA in the United States.",
+        "imageName": "houston"
+    },
+    {
+        "name": "Indianapolis",
+        "category": "Cities",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "country": "United States",
+        "id": 1029,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -86.1581,
+            "latitude": 39.7684
+        },
+        "description": "Indianapolis, is the capital and largest city of the U.S. state of Indiana and the seat of Marion County. It is in the East North Central region of the Midwestern United States. With an estimated population of 853,173 in 2015, Indianapolis is the second most populous city in the Midwest, after Chicago, and 14th largest in the U.S. The city is the economic and cultural center of the Indianapolis metropolitan area, home to 2 million people, the 34th most populous metropolitan statistical area in the U.S. Its combined statistical area ranks 26th, with 2.4 million inhabitants.",
+        "imageName": "indianapolis"
+    },
+    {
+        "name": "Jacksonville",
+        "category": "East Coast",
+        "city": "Jacksonville",
+        "state": "Florida",
+        "country": "United States",
+        "id": 1030,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -81.6557,
+            "latitude": 30.3322
+        },
+        "description": "Jacksonville is a major seaport city and the seat of Duval County, Florida, United States. With an estimated 913,010 residents as of 2017, Jacksonville is the most populous city in both the state of Florida and the southeastern United States. It is estimated to be the 12th most populous city in the United States and is the largest city by area in the contiguous United States.",
+        "imageName": "jacksonville"
+    },
+    {
+        "name": "Kansas City",
+        "category": "Cities",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "country": "United States",
+        "id": 1031,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -94.5786,
+            "latitude": 39.0997
+        },
+        "description": "Kansas City is the largest city in Missouri and the sixth largest city in the Midwest. According to the U.S. Census Bureau, the city had an estimated population of 475,378 in 2015, making it the 36th largest city by population in the United States. It is the anchor city of the Kansas City metropolitan area, which straddles the Kansas–Missouri border. Kansas City was founded in the 1830s as a Missouri River port at its confluence with the Kansas River coming in from the west.",
+        "imageName": "kansascity"
+    },
+    {
+        "name": "Lake Crescent",
+        "category": "Nature",
+        "city": "Lake Crescent",
+        "state": "Washington",
+        "country": "United States",
+        "id": 1032,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -123.79915,
+            "latitude": 48.05726
+        },
+        "description": "Lake Crescent is a deep lake located entirely within Olympic National Park in Clallam County, Washington, United States, approximately 17 miles (27 km) west of Port Angeles on U.S. Route 101 and nearby to the small community of Piedmont. It is known for its brilliant blue waters and exceptional clarity, caused by a lack of nitrogen in the water which inhibits the growth of algae. It is located in a popular recreational area which is home to a number of trails, including the Spruce Railroad Trail, Pyramid Mountain trail, and the Barnes Creek trail to Marymere Falls.",
+        "imageName": "lakecrescent"
+    },
+    {
+        "name": "Las Vegas",
+        "category": "Cities",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "country": "United States",
+        "id": 1033,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -115.1398,
+            "latitude": 36.1699
+        },
+        "description": "Las Vegas, officially the City of Las Vegas and often known simply as Vegas, is the 28th-most populated city in the United States, the most populated city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater Mojave Desert. Las Vegas is an internationally renowned major resort city known primarily for its gambling, shopping, fine dining, entertainment, and nightlife.",
+        "imageName": "lasvegas"
+    },
+    {
+        "name": "Los Angeles",
+        "category": "California",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States",
+        "id": 1034,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -118.2437,
+            "latitude": 34.0522
+        },
+        "description": "Los Angeles, officially the City of Los Angeles and often known by its initials L.A., is the cultural, financial, and commercial center of Southern California. With a census-estimated 2017 population of 4,042,000, it is the second-most populous city in the United States and the most populous city in California. Located in a large coastal basin surrounded on three sides by mountains reaching up to and over 10,000 feet, Los Angeles covers an area of about 469 square miles.",
+        "imageName": "losangeles"
+    },
+    {
+        "name": "Memphis",
+        "category": "Cities",
+        "city": "Memphis",
+        "state": "Tennessee",
+        "country": "United States",
+        "id": 1035,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -90.0490,
+            "latitude": 35.1495
+        },
+        "description": "Memphis is a city in the southwestern corner of the U.S. state of Tennessee and the county seat of Shelby County. The city is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis had a population of 653,450 in 2013, making it the largest city in the state of Tennessee. It is the largest city on the Mississippi River, the third largest in the greater Southeastern United States, and the 23rd largest in the United States.",
+        "imageName": "memphis"
+    },
+    {
+        "name": "Miami",
+        "category": "East Coast",
+        "city": "Miami",
+        "state": "Florida",
+        "country": "United States",
+        "id": 1036,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -80.1918,
+            "latitude": 25.7617
+        },
+        "description": "Miami is a seaport city at the southeastern corner of the U.S. state of Florida and its Atlantic coast. As the seat of Miami-Dade County, the municipality is the principal, central, and the most populous city of the Miami metropolitan area and part of the second-most populous metropolis in the southeastern United States. According to the U.S. Census Bureau, Miami's metro area is the eighth-most populous and fourth-largest urban area in the U.S., with a population of around 5.5 million.",
+        "imageName": "miami"
+    },
+    {
+        "name": "Minneapolis",
+        "category": "Cities",
+        "city": "Minneapolis",
+        "state": "Minesota",
+        "country": "United States",
+        "id": 1037,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -93.2650,
+            "latitude": 44.9778
+        },
+        "description": "Minneapolis is the county seat of Hennepin County, and the larger of the Twin Cities, the 16th-largest metropolitan area in the United States. As of 2015, Minneapolis is the largest city in the state of Minnesota and 46th-largest in the United States with a population of 410,939. Minneapolis and Saint Paul anchor the second-largest economic center in the Midwest, after Chicago.",
+        "imageName": "minneapolis"
+    },
+    {
+        "name": "Montreal",
+        "category": "Canada",
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "Canada",
+        "id": 1038,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -73.5673,
+            "latitude": 45.5017
+        },
+        "description": "Montreal, officially Montréal, is the most populous municipality in the Canadian province of Quebec and the 2nd-most populous in Canada. Originally called Ville-Marie, or \"City of Mary,\" it is believed to be named after Mount Royal, though there is some debate about this. The city has a distinct four-season continental climate, with warm-to-hot summers and cold, snowy winters. In 2016, Montreal had a population of 1,704,694.",
+        "imageName": "montreal"
+    },
+    {
+        "name": "Morro Bay",
+        "category": "California",
+        "city": "Morro Bay",
+        "state": "California",
+        "country": "United States",
+        "id": 1039,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -120.8500,
+            "latitude": 35.3659
+        },
+        "description": "Morro Bay is a waterfront city in San Luis Obispo County, California. As of the 2010 census, the city population was 10,234, down from 10,350 at the 2000 census.",
+        "imageName": "morrobay"
+    },
+    {
+        "name": "Natural Bridges",
+        "category": "Nature",
+        "city": "Natural Bridges",
+        "state": "Oregon",
+        "country": "United States",
+        "id": 1040,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -124.3660,
+            "latitude": 42.1899
+        },
+        "description": "Samuel H. Boardman State Scenic Corridor is a linear state park in southwestern Oregon, in the United States. It is 12 miles (19 km) long and thickly forested along steep and rugged coastline with a few small sand beaches. It is named in honor of Samuel H. Boardman, the first Oregon Parks superintendent. It is located from 3 to 15 miles (5 to 24 km) north of Brookings, between the Pacific Ocean and U.S. Route 101. The north end abuts the Pistol River State Scenic Viewpoint. More than 14 named creeks cross the corridor. The Oregon Coast Trail meanders for about 27 miles (43 km) through the park, among 300-year-old Sitka spruce trees and several natural arches and bridges. There is beach access and some sand dunes. The Oregon Islands National Wildlife Refuge and Oregon Islands Wilderness protect wildlife and habitat on all of the approximately 130 rocks and islands along the corridor's shore.",
+        "imageName": "naturalbridges"
+    },
+    {
+        "name": "New Orleans",
+        "category": "Cities",
+        "city": "New Orleans",
+        "state": "Louisiana",
+        "country": "United States",
+        "id": 1041,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -90.0715,
+            "latitude": 29.9511
+        },
+        "description": "New Orleans is a major United States port and the largest city and metropolitan area in the state of Louisiana. The population of the city was 343,829 as of the 2010 U.S. Census. The New Orleans metropolitan area had a population of 1,167,764 in 2010 and was the 46th largest in the United States. The New Orleans–Metairie–Bogalusa Combined Statistical Area, a larger trading area, had a 2010 population of 1,452,502.",
+        "imageName": "neworleans"
+    },
+    {
+        "name": "New York",
+        "category": "East Coast",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "id": 1042,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -74.0060,
+            "latitude": 40.7128
+        },
+        "description": "The City of New York, often called New York City or simply New York, is the most populous city in the United States. With an estimated 2015 population of 8,550,405 distributed over a land area of about 302.6 square miles, New York City is also the most densely populated major city in the United States. Located at the southern tip of the state of New York, the city is the center of the New York metropolitan area, one of the most populous urban agglomerations in the world.",
+        "imageName": "newyork"
+    },
+    {
+        "name": "Niagara Falls",
+        "category": "East Coast",
+        "city": "Niagarra Falls",
+        "state": "New York",
+        "country": "United States",
+        "id": 1043,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -79.0377,
+            "latitude": 43.0962
+        },
+        "description": "Niagara Falls is a city in Niagara County, New York, United States. As of the 2010 census, the city had a total population of 50,193, down from the 55,593 recorded in the 2000 census. It is adjacent to the Niagara River, across from the city of Niagara Falls, Ontario, and named after the famed Niagara Falls which they share. The city is within the Buffalo–Niagara Falls Metropolitan Statistical Area as well as the Western New York region.",
+        "imageName": "niagarafalls"
+    },
+    {
+        "name": "Oklahoma City",
+        "category": "Cities",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "country": "United States",
+        "id": 1044,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -97.5164,
+            "latitude": 35.4676
+        },
+        "description": "Oklahoma City is the capital and largest city of the U.S. state of Oklahoma. The county seat of Oklahoma County, the city ranks 27th among United States cities in population. The population grew following the 2010 Census, with the population estimated to have increased to 631,346 as of July 2015.",
+        "imageName": "oklahomacity"
+    },
+    {
+        "name": "Olympia",
+        "category": "West Coast",
+        "city": "Olympia",
+        "state": "Washington",
+        "country": "United States",
+        "id": 1045,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -122.9007,
+            "latitude": 47.0379
+        },
+        "description": "Olympia is the capital of the U.S. state of Washington and the county seat of Thurston County. It was incorporated on January 28, 1859. The population was 46,478 as of the 2010 census. The city borders Lacey to the east and Tumwater to the south. Olympia is a major cultural center of the Puget Sound region. Olympia is located 60 miles southwest of Seattle, the largest city in the state of Washington, and falls within the borders of the Seattle CSA.",
+        "imageName": "olympia"
+    },
+    {
+        "name": "Orlando",
+        "category": "East Coast",
+        "city": "Orlando",
+        "state": "Florida",
+        "country": "United States",
+        "id": 1046,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -81.3792,
+            "latitude": 28.5383
+        },
+        "description": "Orlando is a city in the U.S. state of Florida and the county seat of Orange County. Located in Central Florida, it is the center of the Orlando metropolitan area, which had a population of 2,387,138, according to U.S. Census Bureau figures released in March 2016, making it the 24th-largest metropolitan area in the United States, the sixth-largest metropolitan area in the Southern United States, and the third-largest metropolitan area in Florida.",
+        "imageName": "orlando"
+    },
+    {
+        "name": "Philadelphia",
+        "category": "East Coast",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "id": 1047,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -75.1652,
+            "latitude": 39.9526
+        },
+        "description": "Philadelphia is the largest city in the Commonwealth of Pennsylvania and the fifth-most populous city in the United States, with an estimated population of 1,567,442 and more than 6 million in the seventh-largest metropolitan statistical area, as of 2015.",
+        "imageName": "philadelphia"
+    },
+    {
+        "name": "Phoenix",
+        "category": "Cities",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "United States",
+        "id": 1048,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -112.0740,
+            "latitude": 33.4484
+        },
+        "description": "Phoenix is the capital and most populous city of the U.S. state of Arizona. With 1,563,025 people, Phoenix is the sixth most populous city nationwide, the most populous state capital in the United States, and the only state capital with a population of more than one million residents. Phoenix is the anchor of the Phoenix metropolitan area, also known as the Valley of the Sun, which in turn is a part of the Salt River Valley.",
+        "imageName": "phoenix"
+    },
+    {
+        "name": "Pittsburgh",
+        "category": "East Coast",
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "id": 1049,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -79.9959,
+            "latitude": 40.4406
+        },
+        "description": "Pittsburgh is a city in the Commonwealth of Pennsylvania in the United States, and is the county seat of Allegheny County. As of 2017, the city proper has a total population of 305,704, making it the 63rd-largest city in the U.S. The metropolitan population of 2,353,045 is the largest in both the Ohio Valley and Appalachia, the second-largest in Pennsylvania, and the 26th-largest in the U.S. Located at the confluence of the Allegheny, Monongahela, and Ohio Rivers, Pittsburgh is known as both \"the Steel City\" for its more than 300 steel-related businesses, and as the \"City of Bridges\" for its 446 bridges.",
+        "imageName": "pittsburgh"
+    },
+    {
+        "name": "Portland",
+        "category": "West Coast",
+        "city": "Portland",
+        "state": "Oregon",
+        "country": "United States",
+        "id": 1050,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -122.6750,
+            "latitude": 45.5051
+        },
+        "description": "Portland is a port and the largest city in the U.S. state of Oregon and the seat of Multnomah County. It is in the Willamette Valley region of the Pacific Northwest, at the confluence of the Willamette and Columbia Rivers. The city covers 145 square miles and had an estimated population of 632,309 in 2015, making it the 26th most populous city in the United States.",
+        "imageName": "portland"
+    },
+    {
+        "name": "Port Angeles",
+        "category": "West Coast",
+        "city": "Port Angeles",
+        "state": "Washington",
+        "country": "United States",
+        "id": 1051,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -123.4307,
+            "latitude": 48.1181
+        },
+        "description": "Port Angeles is a city in and the county seat of Clallam County, Washington, United States. With a population of 19,038 as of the 2010 census, it is the largest city in the county. The population was estimated at 19,448 in 2015 by the Office of Financial Management. The City's harbor was dubbed Puerto de Nuestra Señora de los Ángeles (Port of Our Lady of the Angels) by Spanish explorer Francisco de Eliza in 1791.",
+        "imageName": "portangeles"
+    },
+    {
+        "name": "Redwood National Park",
+        "category": "Nature",
+        "city": "Redwood National Park",
+        "state": "California",
+        "country": "United States",
+        "id": 1052,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -124.0861,
+            "latitude": 41.5848
+        },
+        "description": "The Redwood National and State Parks (RNSP) are old-growth temperate rainforests located in the United States, along the coast of northern California. Comprising Redwood National Park (established 1968) and California's Del Norte Coast, Jedediah Smith, and Prairie Creek Redwoods State Parks (dating from the 1920s), the combined RNSP contain 139,000 acres.",
+        "imageName": "redwood"
+    },
+    {
+        "name": "Richmond",
+        "category": "East Coast",
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "id": 1053,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -77.4360,
+            "latitude": 37.5407
+        },
+        "description": "Richmond is the capital of the Commonwealth of Virginia in the United States. It is the center of the Richmond Metropolitan Statistical Area (MSA) and the Greater Richmond Region. It was incorporated in 1742, and has been an independent city since 1871. As of the 2010 census, the population was 204,214; in 2016, the population was estimated to be 223,170, the fourth-most populous city in Virginia.",
+        "imageName": "richmond"
+    },
+    {
+        "name": "Salt Lake City",
+        "category": "Cities",
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "country": "United States",
+        "id": 1054,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -111.8910,
+            "latitude": 40.7608
+        },
+        "description": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and the most populous municipality of the U.S. state of Utah. With an estimated population of 190,884 in 2014, the city lies at the core of the Salt Lake City metropolitan area, which has a total population of 1,153,340 (2014 estimate). Salt Lake City is further situated within a larger metropolis known as the Salt Lake City-Ogden-Provo Combined Statistical Area.",
+        "imageName": "saltlakecity"
+    },
+    {
+        "name": "San Diego",
+        "category": "California",
+        "city": "San Diego",
+        "state": "California",
+        "country": "United States",
+        "id": 1055,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -117.1611,
+            "latitude": 32.7157
+        },
+        "description": "San Diego is a major city in California, United States. It is in San Diego County, on the coast of the Pacific Ocean in Southern California, approximately 120 miles south of Los Angeles and immediately adjacent to the border with Mexico. With an estimated population of 1,394,928 as of July 1, 2015, San Diego is the eighth-largest city in the United States and second-largest in California.",
+        "imageName": "sandiego"
+    },
+    {
+        "name": "San Francisco",
+        "category": "California",
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States",
+        "id": 1056,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -122.4194,
+            "latitude": 37.7749
+        },
+        "description": "San Francisco (initials SF), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California. It is the birthplace of the United Nations. Located at the north end of the San Francisco Peninsula, San Francisco is about 47.9 square miles in area, making it the smallest county—and the only consolidated city-county—within the state of California.",
+        "imageName": "sanfrancisco"
+    },
+    {
+        "name": "Santa Barbara",
+        "category": "California",
+        "city": "Santa Barbara",
+        "state": "California",
+        "country": "United States",
+        "id": 1057,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -119.8489,
+            "latitude": 34.4140
+        },
+        "description": "Santa Barbara is the county seat of Santa Barbara County in the U.S. state of California. Situated on a south-facing section of coastline, the longest such section on the West Coast of the United States, the city lies between the steeply rising Santa Ynez Mountains and the Pacific Ocean. Santa Barbara's climate is often described as Mediterranean, and the city has been promoted as the \"American Riviera\".",
+        "imageName": "santabarbara"
+    },
+    {
+        "name": "Santa Cruz",
+        "category": "California",
+        "city": "Santa Cruz",
+        "state": "California",
+        "country": "United States",
+        "id": 1058,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -122.0308,
+            "latitude": 36.9741
+        },
+        "description": "Santa Cruz is the county seat and largest city of Santa Cruz County, California. As of 2013 the U.S. Census Bureau estimated Santa Cruz's population at 62,864. Situated on the northern edge of Monterey Bay, about 32 mi south of San Jose and 75 mi (120 km) south of San Francisco, the city is part of the 12-county San Jose-San Francisco-Oakland Combined Statistical Area.",
+        "imageName": "santacruz"
+    },
+    {
+        "name": "Savannah",
+        "category": "East Coast",
+        "city": "Savannah",
+        "state": "Georgia",
+        "country": "United States",
+        "id": 1059,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -81.0938,
+            "latitude": 32.0691
+        },
+        "description": "Savannah is the oldest city in the U.S. state of Georgia and is the county seat of Chatham County. Established in 1733 on the Savannah River, the city of Savannah became the British colonial capital of the Province of Georgia and later the first state capital of Georgia. A strategic port city in the American Revolution and during the American Civil War, Savannah is today an industrial center and an important Atlantic seaport.",
+        "imageName": "savannah"
+    },
+    {
+        "name": "Seattle",
+        "category": "West Coast",
+        "city": "Seattle",
+        "state": "Washington",
+        "country": "United States",
+        "id": 1060,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -122.3321,
+            "latitude": 47.6062
+        },
+        "description": "Seattle is a seaport city on the west coast of the United States and the seat of King County, Washington. With an estimated 686,800 residents as of 2016, Seattle is the largest city in both the state of Washington and the Pacific Northwest region of North America. In July 2013, it was the fastest-growing major city in the United States and remained in the Top 5 in May 2015 with an annual growth rate of 2.1%.",
+        "imageName": "seattle"
+    },
+    {
+        "name": "Sequoia National Park",
+        "category": "Nature",
+        "city": "Sequoia National Park",
+        "state": "California",
+        "country": "United States",
+        "id": 1061,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -118.7727,
+            "latitude": 36.5647
+        },
+        "description": "Sequoia National Park is a national park in the southern Sierra Nevada east of Visalia, California, in the United States. It was established on September 25, 1890. The park spans 404,064 acres. Encompassing a vertical relief of nearly 13,000 feet, the park contains among its natural resources the highest point in the contiguous 48 United States, Mount Whitney, at 14,505 feet above sea level.",
+        "imageName": "sequoia"
+    },
+    {
+        "name": "St. Louis",
+        "category": "Cities",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "country": "United States",
+        "id": 1062,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -90.1994,
+            "latitude": 38.6270
+        },
+        "description": "St. Louis is an independent city and major U.S. port in the state of Missouri, built along the western bank of the Mississippi River, on the border with Illinois. The city had an estimated 2015 population of 315,685, and is the cultural and economic center of the Greater St. Louis area (home to 2,916,447 people), making it the largest metropolitan area in Missouri and the 19th-largest in the United States.",
+        "imageName": "stlouis"
+    },
+    {
+        "name": "Tampa Bay",
+        "category": "East Coast",
+        "city": "Tampa Bay",
+        "state": "Florida",
+        "country": "United States",
+        "id": 1063,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -82.5437,
+            "latitude": 27.7634
+        },
+        "description": "Tampa Bay is a large natural harbor and shallow estuary connected to the Gulf of Mexico on the west central coast of Florida, comprising Hillsborough Bay, McKay Bay, Old Tampa Bay, Middle Tampa Bay, and Lower Tampa Bay. The largest freshwater inflow into the bay is the Hillsborough River, which flows into Hillsborough Bay in downtown Tampa. Many other smaller rivers and streams also flow into Tampa Bay, resulting in a large watershed area.",
+        "imageName": "tampabay"
+    },
+    {
+        "name": "Toronto",
+        "category": "Canada",
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "id": 1064,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -79.3832,
+            "latitude": 43.6532
+        },
+        "description": "Toronto is the most populous city in Canada and the provincial capital of Ontario. With a population of 2,731,571, it is the fourth most populous city in North America after Mexico City, New York City, and Los Angeles. Toronto is the centre of the Greater Toronto Area (GTA), the most populous metropolitan area in Canada, and anchors the Golden Horseshoe, a heavily urbanized region that is home to 9.2 million people, or over 26% of the population of Canada.",
+        "imageName": "toronto"
+    },
+    {
+        "name": "Tucson",
+        "category": "Cities",
+        "city": "Tucson",
+        "state": "Arizona",
+        "country": "United States",
+        "id": 1065,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -110.9747,
+            "latitude": 32.2226
+        },
+        "description": "Tucson is a city and the county seat of Pima County, Arizona, United States, and home to the University of Arizona. The 2010 United States Census put the population at 520,116, while the 2015 estimated population of the entire Tucson metropolitan statistical area (MSA) was 980,263. The Tucson MSA forms part of the larger Tucson-Nogales combined statistical area (CSA), with a total population of 1,010,025 as of the 2010 Census.",
+        "imageName": "tucson"
+    },
+    {
+        "name": "Vancouver",
+        "category": "Canada",
+        "city": "Vancouver",
+        "state": "British Columbia",
+        "country": "Canada",
+        "id": 1066,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -123.1207,
+            "latitude": 49.2827
+        },
+        "description": "Vancouver is a coastal seaport city in Canada, located in the Lower Mainland region of British Columbia. As the most populous city in the province, the 2016 census recorded 631,486 people in the city, up from 603,502 in 2011. The Greater Vancouver area had a population of 2,463,431 in 2016, making it the third-largest metropolitan area in Canada. Vancouver has the highest population density in Canada with over 5,400 people per square kilometre.",
+        "imageName": "vancouver"
+    },
+    {
+        "name": "Washington DC",
+        "category": "East Coast",
+        "city": "Washington DC",
+        "state": "Washington DC",
+        "country": "United States",
+        "id": 1067,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -77.0369,
+            "latitude": 38.9072
+        },
+        "description": "Washington, D.C., formally the District of Columbia and commonly referred to as \"Washington\", \"the District\", or simply \"D.C.\", is the capital of the United States. The signing of the Residence Act on July 16, 1790, approved the creation of a capital district located along the Potomac River on the country's East Coast. The U.S. Constitution provided for a federal district under the exclusive jurisdiction of the Congress and the District is therefore not a part of any state.",
+        "imageName": "washingtondc"
+    },
+    {
+        "name": "Wichita",
+        "category": "Cities",
+        "city": "Wichita",
+        "state": "Kansas",
+        "country": "United States",
+        "id": 1068,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -97.3301,
+            "latitude": 37.6872
+        },
+        "description": "Wichita is the largest city in the state of Kansas and the 48th-largest city in the United States. Located in south-central Kansas on the Arkansas River, Wichita is the county seat of Sedgwick County and the principal city of the Wichita metropolitan area. As of the 2010 United States Census, the city population was 382,368; as of 2014, it was estimated to have increased to 389,965.",
+        "imageName": "wichita"
+    },
+    {
+        "name": "Yellowstone National Park",
+        "category": "Nature",
+        "city": "Yellowstone National Park",
+        "state": "Wyoming",
+        "country": "United States",
+        "id": 1069,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -110.522435,
+            "latitude": 44.547209
+        },
+        "description": "Yellowstone National Park is a national park located in the U.S. states of Wyoming, Montana and Idaho. It was established by the U.S. Congress and signed into law by President Ulysses S. Grant on March 1, 1872. Yellowstone was the first National Park in the U.S. and is also widely held to be the first national park in the world. The park is known for its wildlife and its many geothermal features, especially Old Faithful Geyser, one of its most popular features.",
+        "imageName": "yellowstone"
+    },
+    {
+        "name": "Yosemite National Park",
+        "category": "Nature",
+        "city": "Yosemite National Park",
+        "state": "California",
+        "country": "United States",
+        "id": 1070,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -119.515204,
+            "latitude": 37.839625
+        },
+        "description": "Yosemite National Park is a national park spanning portions of Tuolumne, Mariposa and Madera counties in Northern California. The park, which is managed by the National Park Service, covers an area of 747,956 acres and reaches across the western slopes of the Sierra Nevada mountain range. On average, about 4 million people visit Yosemite each year, and most spend the majority of their time in the seven square miles of Yosemite Valley.",
+        "imageName": "yosemite"
+    },
+    {
+        "name": "Zion National Park",
+        "category": "Nature",
+        "city": "Zion National Park",
+        "state": "Utah",
+        "country": "United States",
+        "id": 1071,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -112.986936,
+            "latitude": 37.200110
+        },
+        "description": "Zion National Park is located in the Southwestern United States, near Springdale, Utah. A prominent feature of the 229-square-mile park is Zion Canyon, which is 15 miles (24 km) long and up to half a mile (800 m) deep, cut through the reddish and tan-colored Navajo Sandstone by the North Fork of the Virgin River. The lowest elevation is 3,666 ft at Coalpits Wash and the highest elevation is 8,726 ft at Horse Ranch Mountain.",
+        "imageName": "zion"
+    }
+]
